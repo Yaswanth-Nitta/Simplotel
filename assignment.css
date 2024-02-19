@@ -51,17 +51,19 @@
 
     .image-2 {
         height: 50%;
-        width: 20vw;
+        width: 100%;
+        margin-bottom: 3px;
     }
 
     .image-3 {
         height: 50%;
-        width: 20vw;
+        width: 100%;
+        margin-top: 3px;
     }
 
     .image-4 {
         height: 100%;
-        width: 20vw;
+        width: 100%;
         margin-left: 10px;
     }
 
@@ -163,19 +165,20 @@
 
     .image-2 {
         height: 50%;
-        width: 20vw;
-
+        width: 100%;
+        margin-bottom: 3px;
     }
 
     .image-3 {
         height: 50%;
-        width: 20vw;
+        width: 100%;
+        margin-top: 3px;
 
     }
 
     .image-4 {
         height: 100%;
-        width: 20vw;
+        width: 100%;
         margin-left: 12px;
     }
 
@@ -279,21 +282,21 @@
 
     .image-2 {
         height: 50%;
-        width: 20vw;
+        width: 100%;
         margin-bottom: 3px;
 
     }
 
     .image-3 {
         height: 50%;
-        width: 20vw;
+        width: 100%;
         margin-top: 3px;
 
     }
 
     .image-4 {
         height: 100%;
-        width: 20vw;
+        width: 100%;
         margin-left: 15px;
     }
 
